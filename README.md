@@ -26,4 +26,3 @@ Insights:
 
 Value: 
 This project demonstrates proficiency in creating interactive dashboards, insightful visualizations, and actionable analytics for decision-making. It’s a powerful showcase of data visualization skills suitable for business analysis or portfolio work.
-![image](https://github.com/user-attachments/assets/bc3858ad-03d8-4c6f-b282-41d1129f5869)
