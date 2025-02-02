@@ -1,5 +1,4 @@
 # Sales-Data-Visualization
-Store Profit Analysis in Tableau based on Net Sales and different Categories
 
 Project Summary: Sales Data Visualization
 This Tableau project visualizes sales data across various stores and menu items to analyze net sales performance, trends, and key insights. Below is a concise breakdown:
